@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachedalidate",
+        "uuid": 5102086,
+        "checksum": "qj2mik"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
